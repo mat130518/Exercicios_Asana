@@ -8,6 +8,7 @@ Pedazo teoría se marca José Barato en [linkedin](https://es.linkedin.com/pulse
 3. Porqué el éxito de Asana  
 4. Cómo trabajar con Asana
 
-Ahora seguimos en otro párrafo
+Viendo este video, anotar las cosas que puede se pueden hacer:
+[learn asana](https://asana.com/guide/get-started/begin/quick-start)
 
 
